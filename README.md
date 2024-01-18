@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanr3" alt="roshanr3" /></a> </p>
 
 - 🔭 I’m currently working on **my club website (Admin Panel)**
+- - 🔭 I’m currently working on **frontend developer at jivan private limited**
 
-- 👯 I’m looking to collaborate on **frontend developer at jivan private limited**
 
 - 📫 How to reach me **roshantvm4@gmail.com**
 
